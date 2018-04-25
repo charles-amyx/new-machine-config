@@ -291,12 +291,38 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Left Half
       - Control + Option + Command + Left Arrow
       - All Screens
-      - Grid W x H: 6 x 6
+      - Grid: 6 x 6
     - Right Half
       - Control + Option + Command + Right Arrow
       - All Screens
-      - Grid W x H: 6 x 6
-    - There are a few others but used on a case by case basis
+      - Grid: 6 x 6
+    - Left Two Thirds
+      - Control + Option + Command + [
+      - All Screens
+      - Grid: 8 x 8
+    - Right Two Thirds
+      - Control + Option + Command + ]
+      - All Screens
+      - Precision
+        - [x] Center Y
+        - Position: 555
+        - Size: 1366 x 1200 (or the height of the main monitor)
+    - Left Upper Quad
+      - Control + Option + Command + Up Arrow
+      - All Screens
+      - Grid: 6 x 6
+    - Left Lower Quad
+      - Control + Option + Command + Down Arrow
+      - All Screens
+      - Grid: 6 x 6
+    - Right Upper Quad
+      - Control + Shift + Command + Up Arrow
+      - All Screens
+      - Grid: 6 x 6
+    - Right Lower Quad
+      - Control + Shift + Command + Down Arrow
+      - All Screens
+      - Grid: 6 x 6
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
