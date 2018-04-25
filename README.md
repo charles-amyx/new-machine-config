@@ -316,6 +316,11 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🌋 [LittleIpsum](http://dustinsenos.com/littleIpsum)
 
+### 📦 [Dropbox](https://www.dropbox.com/)
+  - Selectively Sync:
+    - Stock+
+    - Whatever work-related folder
+
 ### 🎼 [Spotify](https://www.spotify.com/us/)
 
 ### ⚙️ [Xcode](https://developer.apple.com/xcode/)
