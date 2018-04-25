@@ -345,7 +345,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Photoshop
     - Install [GuideGuide](https://guideguide.me/)
 
-### 🎨 [Sketch App](https://www.sketchapp.com/)
+### ✏️ [Sketch App](https://www.sketchapp.com/)
   - Plugins
     - [Runner](http://sketchrunner.com/help.html)
     - [Craft](https://www.invisionapp.com/craft)
