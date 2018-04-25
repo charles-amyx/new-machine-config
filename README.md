@@ -335,6 +335,15 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Install [GuideGuide](https://guideguide.me/)
 
 ### 🎨 [Sketch App](https://www.sketchapp.com/)
+  - Plugins
+    - [Runner](http://sketchrunner.com/help.html)
+    - [Craft](https://www.invisionapp.com/craft)
+    - [Marvel prototyping](https://github.com/marvelapp/marvel-sketch)
+    - [Rename It](http://rodi01.github.io/RenameIt/)
+    - [Automate](https://ashung.github.io/Automate-Sketch/)
+    - [Copy and Paste Shadows](https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows)
+    - [Zeplin](https://zeplin.io/)
+    - [Segmented Circles](https://github.com/design4use/gb-sketch-segmentcircle)
 
 ### 🐉 [FileZilla](https://filezilla-project.org/)
 
