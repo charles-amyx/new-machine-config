@@ -105,7 +105,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - [ ] Show Keyboard, Emoji, & Symbol Viewers in menu bar
     - No other unique keyboard settings
   - Shortcuts
-      - Spotlight: Control + Space
+      - Spotlight: ⌃ + Space
 
 ### 🖱 Mouse - Don't usually use one
 
