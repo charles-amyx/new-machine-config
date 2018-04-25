@@ -1,11 +1,11 @@
-# 💻🎁 New Machine Checklist 🎁💻
-A checklist and list of scripts I need when getting a new machine or reinstall the OS.
+# 💻 New Machine Checklist 💻
+A checklist and list of most of the things I need when getting a new machine or reinstall the OS.
 
 
 ## First Things First
 
-- You should have the following user/pass combinations ready
-  - Wifi password
+- I should have the following user/pass combinations ready
+  - Wifi password (if not on MWireless)
   - Apple ID
   - iPhone for 2FA
   
@@ -350,7 +350,7 @@ killAll Finder && killAll Dock
 ## 🕸 Websites
 - Google Drive: In settings, disable sync offline mode.
 
-## 🖥 Hardware (Ideal dev computer (as of 2016))
+## 🖥 Hardware (Ideal rig (as of 2018))
 - MacBook Pro (15-inch, 2017)
 - 2.9 GHz Intel Core i7 Processor
 - 16 GB 2133 MHz LPDDR3
