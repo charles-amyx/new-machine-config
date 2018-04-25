@@ -83,11 +83,17 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🔌 Energy Saver
   - [x] Automatic graphics switching
-  - 1.25 hrs
-  - [x] Put hard disks to sleep when possible
-  - [x] Wake for network access
-  - [x] Enable Power Nap while plugged into a power adapter
-  - [x] Show battery status in menu bar
+  - Battery
+    - [x] Put hard disks to sleep when possible
+    - [x] Slightly dim the display while on battery power
+    - [ ] Enable Power Nap while on battery power
+  - Power Adapter
+    - Turn display off after: 1.25 hrs
+    - [ ] Prevent computer from sleeping automatically when the display is off
+    - [x] Put hard disks to sleep when possible
+    - [x] Wake for network access
+    - [ ] Enable Power Nap while plugged into a power adapter
+    - [x] Show battery status in menu bar
 
 ### ⌨ Keyboard
   - Keyboard
