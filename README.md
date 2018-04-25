@@ -66,6 +66,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Privacy
     - Allow the apps below to control your computer: (when downloaded)
       - Window Tidy
+      - *Make sure to untick the Dropbox entry in Accessibility – they don't need that*
 
 ### 🔍 Spotlight
   - All the things, for now
@@ -405,7 +406,7 @@ killAll Finder && killAll Dock
 - [Michigan Branding Resources](http://cmbrand.engin.umich.edu/)
 - [U-M Web Hosting](http://www.umich.edu/~umweb/how-to/homepage.html)
 - [Front End Checklist](https://frontendchecklist.io/)
-- I believe all bookmarks should come over once signed in to Google account
+- I believe all bookmarks should come over once signed in to Google account so I'm not sure why I am listing these...
 
 ## 🖥 Hardware (Ideal rig (as of 2018))
 - MacBook Pro (15-inch, 2017)
