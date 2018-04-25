@@ -282,7 +282,6 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Wappalyzer
     - WAVE Evaluation Tool
     - WhatFont
-      - Display density: compact
 
 ### ↔️ [Window Tidy](https://itunes.apple.com/us/app/window-tidy/id456609775?mt=12) - Window management
   - General
