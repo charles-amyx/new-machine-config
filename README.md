@@ -374,7 +374,6 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 - OSX
 ```
-sh
 ## All scripts not effective until Finder and Dock are restarted (see below)
 
 ## !!! Commit changes by running the following
