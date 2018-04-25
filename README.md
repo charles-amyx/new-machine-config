@@ -70,7 +70,9 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🔍 Spotlight
   - All
 
-### 🔔 Notifications - Nothing special
+### 🔔 Notifications
+  - Do Not Disturb
+    - [x] When mirroring to TVs and projectors
 
 ### 📺 Display
   - Scaled: More Space
