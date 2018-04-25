@@ -267,7 +267,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Install SublimeLinter-contrib-stylelint
   - More usually based on what workflow office is using
 
-### 🌐 [Chrome](https://www.google.com/chrome/browser/desktop/index.html)/[FF](https://www.mozilla.org/en-US/firefox/new/) - Web browser
+### 🌐 [Chrome 🏠](https://www.google.com/chrome/browser/desktop/index.html)/[FF 🦊](https://www.mozilla.org/en-US/firefox/new/) - Web browsers
   - Log in to Chrome profile
   - Chrome Extensions (chrome://extensions/)
     - Accessibility Developer Tools
@@ -336,7 +336,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🎨 [Sketch App](https://www.sketchapp.com/)
 
-### 🚦 [FileZilla](https://filezilla-project.org/)
+### 🐉 [FileZilla](https://filezilla-project.org/)
 
 ### 🌋 [LittleIpsum](http://dustinsenos.com/littleIpsum)
 
