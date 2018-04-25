@@ -25,7 +25,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [x] Use LCD font smoothing when available
 
 ### 🖥 Desktop & Screen Saver
-  - Message: Start after: 1 hour, [x] show clock
+  - Message: Start after: 1 hour, 🔘 show clock
   - Screen Saver: Flurry
 
 ### 🚢 Dock
@@ -44,8 +44,8 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [ ] Group windows by application
   - [x] Displays have separate Spaces
   - Dashboard: Off
-  - Mission Control: Ctrl + Up
-  - Application windows: Ctrl + Down
+  - Mission Control: ⌃ + ↑
+  - Application windows: ⌃ + ↓
   - Show Desktop: F11
   - Show Dashboard F12
 
@@ -220,7 +220,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### ☕ Flash Player/Java: Default
   - Flash: https://get.adobe.com/flashplayer/?fpchrome
-    - Allow Adobe to install updates
+    - Notify me to install updates
   - Java: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 
@@ -272,6 +272,11 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Install Emmet Style Reflector
   - Install SublimeLinter-contrib-stylelint
   - More usually based on what workflow office is using
+
+### 📝 [Visual Composer](https://www.visualstudio.com/)
+  - I _may_ make a transition to this text editor
+
+### 🔨 [ImageOptim](https://imageoptim.com/)
 
 ### 🌐 [Chrome 🏠](https://www.google.com/chrome/browser/desktop/index.html)/[FF 🦊](https://www.mozilla.org/en-US/firefox/new/) - Web browsers
   - Log in to Chrome profile
