@@ -289,11 +289,11 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Launch on login
   - Layouts
     - Left Half
-      - Control + Option + Command + Left Arrow
+      - Control + Option + Command + ←
       - All Screens
       - Grid: 6 x 6
     - Right Half
-      - Control + Option + Command + Right Arrow
+      - Control + Option + Command + →
       - All Screens
       - Grid: 6 x 6
     - Left Two Thirds
@@ -308,19 +308,19 @@ A checklist and list of most of the things I need when getting a new machine or 
         - Position: 555
         - Size: 1366 x 1200 (or the height of the main monitor)
     - Left Upper Quad
-      - Control + Option + Command + Up Arrow
+      - Control + Option + Command + ↑
       - All Screens
       - Grid: 6 x 6
     - Left Lower Quad
-      - Control + Option + Command + Down Arrow
+      - Control + Option + Command + ↓
       - All Screens
       - Grid: 6 x 6
     - Right Upper Quad
-      - Control + Shift + Command + Up Arrow
+      - Control + Shift + Command + ↑
       - All Screens
       - Grid: 6 x 6
     - Right Lower Quad
-      - Control + Shift + Command + Down Arrow
+      - Control + Shift + Command + ↓
       - All Screens
       - Grid: 6 x 6
 
