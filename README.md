@@ -353,6 +353,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Selectively Sync:
     - Stock+
     - Whatever work-related folder
+    - Screenshots
 
 ### 🎼 [Spotify](https://www.spotify.com/us/)
 
