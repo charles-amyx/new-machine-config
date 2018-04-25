@@ -306,6 +306,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - After Effects
   - InDesign
   - Illustrator
+    - Install [AI2HTML script](https://github.com/amyx-umich/embed-test)
   - Photoshop
 
 ### 🎨 [Sketch App](https://www.sketchapp.com/)
