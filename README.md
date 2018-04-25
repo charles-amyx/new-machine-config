@@ -253,7 +253,7 @@ A checklist and list of most of the things I need when getting a new machine or 
       - When performing a search: Search the Current Folder
 
 ### ⬛ shell
-  - Terminal
+  - Terminal (I know, boring)
     - General
       - On startup, open: (x) New window with profile: Homebrew
     - Profiles: Homebrew
@@ -265,7 +265,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Install SublimeLinter-contrib-stylelint
   - More usually based on what workflow office is using
 
-### 🌐 [Chrome](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=CjwKEAiA94nCBRDxismumrL83icSJAAeeETQYOf76erQPwAxn-3VFJoyB4jKG8rRaojywrA5DvKOjxoC-Ofw_wcB)/[FF](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=paidsearch&utm_campaign=sitelink&utm_term=download%20firefox&gclid=CjwKEAiA94nCBRDxismumrL83icSJAAeeETQ083MCGKGd4nl3St2NhpixoUvlbAvbJIU0zwHss-RaxoCpC7w_wcB) - Web browser
+### 🌐 [Chrome](https://www.google.com/chrome/browser/desktop/index.html)/[FF](https://www.mozilla.org/en-US/firefox/new/) - Web browser
   - Log in to Chrome profile
   - Chrome Extensions (chrome://extensions/)
     - Accessibility Developer Tools
@@ -349,6 +349,10 @@ killAll Finder && killAll Dock
 
 ## 🕸 Websites
 - Google Drive: In settings, disable sync offline mode.
+- [Michigan Branding Resources](http://cmbrand.engin.umich.edu/)
+- [U-M Web Hosting](http://www.umich.edu/~umweb/how-to/homepage.html)
+- [Front End Checklist](https://frontendchecklist.io/)
+- I believe all bookmarks should come over once signed in to Google account
 
 ## 🖥 Hardware (Ideal rig (as of 2018))
 - MacBook Pro (15-inch, 2017)
