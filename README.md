@@ -263,101 +263,85 @@ A checklist and list of scripts I need when getting a new machine or reinstall t
   - Install HTML-CSS-JS Prettify
   - Install Emmet Style Reflector
   - Install SublimeLinter-contrib-stylelint
-
-### 📝 [Webstorm](https://www.jetbrains.com/webstorm/) - Web IDE
-  - Keymap scheme: Mac OS X 10.5+
-  - IDE Theme: Darcula
-  - Editor color and fonts: Darcula
-  - [x] Enable opening files and projects from the command line
-
-### ⚡ [Messenger](https://fbmacmessenger.rsms.me/)
+  - More usually based on what workflow office is using
 
 ### 🌐 [Chrome](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=CjwKEAiA94nCBRDxismumrL83icSJAAeeETQYOf76erQPwAxn-3VFJoyB4jKG8rRaojywrA5DvKOjxoC-Ofw_wcB)/[FF](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=paidsearch&utm_campaign=sitelink&utm_term=download%20firefox&gclid=CjwKEAiA94nCBRDxismumrL83icSJAAeeETQ083MCGKGd4nl3St2NhpixoUvlbAvbJIU0zwHss-RaxoCpC7w_wcB) - Web browser
   - Log in to Chrome profile
   - Chrome Extensions (chrome://extensions/)
-    - AdBlock
-    - Boomerang for Gmail
-    - Checker Plus for Gmail
-    - Checker Plus for Google Calendar
-    - Cookie Inspector
-    - Currently (new tab screen)
-    - Full Page Screen Capture
+    - Accessibility Developer Tools
+    - Currently
+    - Dropbox for Gmail
+    - JSON Viewer
+    - Markdown HEre
     - Grammarly for Chrome
     - Hacker News Collapsible Comments
-    - Isometric Contributions
-    - JSON Formatter
-    - LastPass: Free Password Manager
-    - Octotree (Code tree fro GitHub)
     - React Developer Tools
-    - Save as PDF
-    - SoundCloud Button
-    - SpeakIt!
-    - Video Speed Controller
+    - uBlock Origin
+    - Wappalyzer
+    - WAVE Evaluation Tool
     - WhatFont
-  - [Open email in Gmail instead of Apple Mail](https://blog.hubspot.com/marketing/set-gmail-as-browser-default-email-client-ht#sm.0000orlgqi4b7e33zxa10x3lz8ehe)
       - Display density: compact
 
-### ↔️ [Moom](manytricks.com/moom/) - Window management
+### ↔️ [Window Tidy](https://itunes.apple.com/us/app/window-tidy/id456609775?mt=12) - Window management
   - General
     - Launch on login
-    - Show perferences on launch
-    - Run as faceless application
-  - Keyboard
-    ![https://cloud.githubusercontent.com/assets/744973/20869168/67cc16b0-ba21-11e6-9c03-c06f44e32d39.png](https://cloud.githubusercontent.com/assets/744973/20869168/67cc16b0-ba21-11e6-9c03-c06f44e32d39.png)
-
-### ↔️ [QuickSilver](https://qsapp.com/download.php) - Global hotkeys
-  - Create global hotkeys for apps
+  - Layouts
+    - Left Half
+      - Control + Option + Command + Left Arrow
+      - All Screens
+      - Grid W x H: 6 x 6
+    - Right Half
+      - Control + Option + Command + Right Arrow
+      - All Screens
+      - Grid W x H: 6 x 6
+    - There are a few others but used on a case by case basis
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
-### 🖼 [Licecap](cockos.com/licecap/) - Create GIFs
-
 ### 🐺 [Firefox](mozilla.org/firefox)
 
-### ⏰ [RescueTime](rescuetime.com/download)
+### 🎨 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
+  - After Effects
+  - InDesign
+  - Illustrator
+  - Photoshop
+
+### 🎨 [Sketch App](https://www.sketchapp.com/)
+
+### 🚦 [FileZilla](https://filezilla-project.org/)
+
+### 🌋 [LittleIpsum](http://dustinsenos.com/littleIpsum)
+
+### 🎼 [Spotify](https://www.spotify.com/us/)
+
+### ⚙️ [Xcode](https://developer.apple.com/xcode/)
 
 ## 🚢 Dock
   - Remove all but the following:
     - Finder
-    - Launchpad
-    - Messenges
-    - iTerm
+    - System Preferences
     - Downloads
     - Trash
 
 ## 🚀 Launchpad
   - This will be cluttered, but uninstall anything not relevant.
   - Put all pre-installed apps in folders
+    - I don't really use this
 
 ## ❓ Optional
-- Golang
-- IntelliJ
-- RescueTime
-- http://gitup.co/
-- Heroku Toolbelt (https://devcenter.heroku.com/articles/heroku-cli)
+
 
 ## 📝 Scripts
 
-- git
-  - `git config --global push.default matching`
+- Show all files
+```
+defaults write com.apple.finder AppleShowAllFiles YES
+```
 
-- json
-  - `sudo npm install -g jsontool # | json`
 
 - OSX
 ```sh
 ## All scripts not effective until Finder and Dock are restarted (see below)
-
-## Make screenshots save to custom directory:
-cd ~;
-mkdir screenshots;
-defaults write com.apple.screencapture location ~/Documents/screenshots;
-## Speed up exposé animation
-defaults write com.apple.dock expose-animation-duration -float 0.12 && killall Dock
-## Show hidden files in finder
-defaults write com.apple.finder AppleShowAllFiles -bool YES && killall Finder
-## Disable animation for Get Info window
-defaults write com.apple.finder DisableAllAnimations -bool true
 
 ## !!! Commit changes by running the following
 killAll Finder && killAll Dock
@@ -367,27 +351,17 @@ killAll Finder && killAll Dock
 - Google Drive: In settings, disable sync offline mode.
 
 ## 🖥 Hardware (Ideal dev computer (as of 2016))
-- iMac
-- Quad-core >=4.0GHz Processor
-- 32GB DDR3
+- MacBook Pro (15-inch, 2017)
+- 2.9 GHz Intel Core i7 Processor
+- 16 GB 2133 MHz LPDDR3
 - 512GB Flash Storage
-- 4GB Video Memory
+- Intel HD Graphics 630 1536 MB
 
 ## 🛃 Rules
 - Don't install anything else in an effort to increase performance.
-  - Dropbox
-  - Drive
-  - Adobe Suite (Flash, Photoshop, Acrobat, ...)
   - GoToMeeting
-  - Keybase
   - Kindle
-  - Dash
   - Tableau
-- No games. Use a different computer
-  - Steam
-  - Battle.net/Blizzard
-  - Wineskin
-  - Thalmic labs
 
 # Tips and tricks
 - https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.bw4vdg7q4
