@@ -68,7 +68,7 @@ A checklist and list of most of the things I need when getting a new machine or 
       - Window Tidy
 
 ### 🔍 Spotlight
-  - All
+  - All the things, for now
 
 ### 🔔 Notifications
   - Do Not Disturb
@@ -145,10 +145,10 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🌐 Internet Accounts (try not to add anything unless needed here)
   - iCloud
-    - Contacts
-    - Safari
-    - Keychain
-    - Find My Mac
+    - [x] Contacts
+    - [x] Safari
+    - [x] Keychain
+    - [x] Find My Mac
   - None besides that
 
 ### 💎 Extensions
@@ -168,9 +168,9 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🕸 Network
   - Show Wi-Fi status in menu bar
   - Advanced
-    - Nothing really different besides default
+    - Nothing really different
 
-### 📲 Blootooth
+### 📲 Bluetooth
   - Turn Bluetooth On
   - [x] Show Bluetooth in menu bar
 
@@ -361,7 +361,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 ## 🚀 Launchpad
   - This will be cluttered, but uninstall anything not relevant.
   - Put all pre-installed apps in folders
-    - I don't really use this
+  - I don't really use this anyway
 
 ## ❓ Optional
 
@@ -401,6 +401,7 @@ killAll Finder && killAll Dock
   - GoToMeeting
   - Kindle
   - Tableau
+- Keep all working source files in Dropbox
 
 # Tips and tricks
 - https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.bw4vdg7q4
