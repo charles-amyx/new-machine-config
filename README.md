@@ -326,8 +326,6 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
-### 🐺 [Firefox](mozilla.org/firefox)
-
 ### 🎨 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
   - After Effects
   - InDesign
