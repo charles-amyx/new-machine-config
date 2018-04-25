@@ -274,7 +274,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Currently
     - Dropbox for Gmail
     - JSON Viewer
-    - Markdown HEre
+    - Markdown Here
     - Grammarly for Chrome
     - Hacker News Collapsible Comments
     - React Developer Tools
