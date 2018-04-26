@@ -274,7 +274,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Install SublimeLinter-contrib-stylelint
   - More usually based on what workflow office is using
 
-### 📝 [Visual Composer](https://www.visualstudio.com/)
+### 📝 [Visual Studio](https://www.visualstudio.com/)
   - I _may_ make a transition to this text editor
 
 ### 🔨 [ImageOptim](https://imageoptim.com/)
