@@ -8,6 +8,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Wifi password (if not on MWireless)
   - Apple ID
   - iPhone for 2FA
+- I must be an admin on the machine to install things
   
 
 ## System Preferences
