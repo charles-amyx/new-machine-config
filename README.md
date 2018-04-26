@@ -295,45 +295,9 @@ A checklist and list of most of the things I need when getting a new machine or 
     - WAVE Evaluation Tool
     - WhatFont
 
-### ↔️ [Window Tidy](https://itunes.apple.com/us/app/window-tidy/id456609775?mt=12) - Window management
+### ↔️ [Spectacle](https://www.spectacleapp.com/) - Window management
   - General
     - Launch on login
-  - Layouts
-    - Left Half
-      - ⌃ + ⌥ + ⌘ + ←
-      - All Screens
-      - Grid: 6 x 6
-    - Right Half
-      - ⌃ + ⌥ + ⌘ + →
-      - All Screens
-      - Grid: 6 x 6
-    - Left Two Thirds
-      - ⌃ + ⌥ + ⌘ + [
-      - All Screens
-      - Grid: 8 x 8
-    - Right Two Thirds
-      - ⌃ + ⌥ + ⌘ + ]
-      - All Screens
-      - Precision
-        - [x] Center Y
-        - Position: 555
-        - Size: 1366 x 1200 (or the height of the main monitor)
-    - Left Upper Quad
-      - ⌃ + ⌥ + ⌘ + ↑
-      - All Screens
-      - Grid: 6 x 6
-    - Left Lower Quad
-      - ⌃ + ⌥ + ⌘ + ↓
-      - All Screens
-      - Grid: 6 x 6
-    - Right Upper Quad
-      - ⌃ + ⇧ + ⌘ + ↑
-      - All Screens
-      - Grid: 6 x 6
-    - Right Lower Quad
-      - ⌃ + ⇧ + ⌘ + ↓
-      - All Screens
-      - Grid: 6 x 6
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
