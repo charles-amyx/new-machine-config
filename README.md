@@ -267,7 +267,7 @@ A checklist and list of most of the things I need when getting a new machine or 
       - On startup, open: [x] New window with profile: Homebrew
     - Profiles: Homebrew
 
-### 📝 [Sublime](https://www.sublimetext.com/3) - Text editor
+### 📝 [Sublime](https://www.sublimetext.com/) - Text editor
   - Install package control
   - Install HTML-CSS-JS Prettify
   - Install Emmet Style Reflector
