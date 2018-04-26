@@ -330,6 +330,12 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Whatever work-related folder
     - Screenshots
 
+### 🦑 [Node](https://www.npmjs.com/get-npm)
+
+### 🍫 [Vagrant](https://www.vagrantup.com/)
+
+### 🖥 [VirtualBox](https://www.virtualbox.org/)
+
 ### 🎼 [Spotify](https://www.spotify.com/us/)
 
 ### ⚙️ [Xcode](https://developer.apple.com/xcode/)
