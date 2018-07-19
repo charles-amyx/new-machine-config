@@ -363,6 +363,8 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🦑 [Node](https://www.npmjs.com/get-npm)
 
+### 🐳 [Docker](https://docs.docker.com/install/)
+
 ### 🍫 [Vagrant](https://www.vagrantup.com/)
 
 ### 🖥 [VirtualBox](https://www.virtualbox.org/)
