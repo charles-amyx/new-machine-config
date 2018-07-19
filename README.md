@@ -1,6 +1,6 @@
 # 💻 New Machine Checklist 💻
-A checklist and list of most of the things I need when getting a new machine or reinstall the OS.
 
+A checklist and list of most of the things I need when getting a new machine or reinstall the OS.
 
 ## First Things First
 
@@ -14,6 +14,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 ## System Preferences
 
 ### 🍎 General
+
   - Appearance: Blue
   - [x] Use dark menu bar and Dock
   - Highlight color: Blue
@@ -26,10 +27,12 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [x] Use LCD font smoothing when available
 
 ### 🖥 Desktop & Screen Saver
+
   - Message: Start after: 1 hour, 🔘 show clock
   - Screen Saver: Flurry
 
 ### 🚢 Dock
+
   - Size: Small
   - [x] Magnification: Max
   - Position on screen: Bottom
@@ -40,6 +43,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [x] Show indicators for open applications
 
 ### 🖲 Mission Control
+
   - [x] Automatically rearrage Spaces based on most recent use
   - [x] When switching to an applications, switch to a Space with open windows for the application
   - [ ] Group windows by application
@@ -51,6 +55,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Show Dashboard F12
 
 ### 🌐 Language & Region
+
   - Preferred languages
     - English - Primary
   - Region: United States
@@ -60,6 +65,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Temperature: ºF
 
 ### 🔒 Security & Privacy
+
   - General
     - Require password immediately
     - Disable automatic login
@@ -70,13 +76,16 @@ A checklist and list of most of the things I need when getting a new machine or 
       - *Make sure to untick the Dropbox entry in Accessibility – they don't need that*
 
 ### 🔍 Spotlight
+
   - All the things, for now
 
 ### 🔔 Notifications
+
   - Do Not Disturb
     - [x] When mirroring to TVs and projectors
 
 ### 📺 Display
+
   - Scaled: More Space
   - [x] Show mirroring options in the menu bar when available
   - Night Shift
@@ -84,6 +93,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Color Temperature: Mid point
 
 ### 🔌 Energy Saver
+
   - [x] Automatic graphics switching
   - Battery
     - [x] Put hard disks to sleep when possible
@@ -98,6 +108,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - [x] Show battery status in menu bar
 
 ### ⌨ Keyboard
+
   - Keyboard
     - Key Repeat - 2nd to fastest
     - Delay Until Repeat - 3rd tick from left
@@ -112,6 +123,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🖱 Mouse - Don't usually use one
 
 ### ⬜ Trackpad
+
   - Point & Click
     - [x] Look up & data detectors
     - [x] Secondary click
@@ -135,10 +147,12 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🖨 Printers & Scanners - Nothing special
 
 ### 🔊 Sound
+
   - Nothing special
   - [x] Show volume in menu bar
 
 ### ☁️ iCloud - Work config
+
   - [ ] iCloud Drive
   - [ ] Photos
   - [ ] Mail
@@ -152,6 +166,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [x] Find My Mac
 
 ### 🌐 Internet Accounts (try not to add anything unless needed here)
+
   - iCloud
     - [x] Contacts
     - [x] Safari
@@ -160,6 +175,7 @@ A checklist and list of most of the things I need when getting a new machine or 
   - None besides that
 
 ### 💎 Extensions
+
   - Dropbox
   - Actions
     - Markup
@@ -174,28 +190,34 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Reminders
 
 ### 🕸 Network
+
   - Show Wi-Fi status in menu bar
   - Advanced
     - Nothing really different
 
 ### 📲 Bluetooth
+
   - Turn Bluetooth On
   - [x] Show Bluetooth in menu bar
 
 ### 👫 Sharing
+
   - Whatever ITS does
 
 ### 👆Touch ID
+
   - Right Forefinger
   - Left Middlefinger
 
 ### 👤 Users & Groups
+
   - Whatever ITS does
     - Avatar: Eagle hah
 
 ### 👨‍👧 Parental Controls - none
 
 ### 🛍 App Store
+
   - [x] Automatically check for updates
     - [x] Download newly available updates in the background
     - [x] Install app updates
@@ -204,9 +226,11 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [ ] Automatically download apps purchaes on other Macs
 
 ### 🗣 Dictation & Speech
+
   - Dictation All Off
 
 ### 🕒 Date & Time
+
   - Date & Time: Set date and time automatically
   - Time Zone: Set time zone automatically using current location
   - Clock
@@ -221,13 +245,16 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 💬 Accessibility: Default
 
 ### ☕ Flash Player/Java: Default
+
   - Flash: https://get.adobe.com/flashplayer/?fpchrome
     - Notify me to install updates
   - Java: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 
 ### 📂 finder
+
   - in folders, right-click, View > as List
+
   - Finder > Preferences
     - Sidebar
       - Favorites
@@ -263,24 +290,23 @@ A checklist and list of most of the things I need when getting a new machine or 
       - When performing a search: Search the Current Folder
 
 ### ⬛ shell
-  - Terminal (I know, boring)
+
+  - Terminal
     - General
       - On startup, open: [x] New window with profile: Homebrew
     - Profiles: Homebrew
 
-### 📝 [Sublime](https://www.sublimetext.com/) - Text editor
-  - Install package control
+### 📝 [Visual Studio Code](https://code.visualstudio.com/) - Text editor
+
   - Install HTML-CSS-JS Prettify
   - Install Emmet Style Reflector
   - Install SublimeLinter-contrib-stylelint
   - More usually based on what workflow office is using
 
-### 📝 [Visual Studio](https://www.visualstudio.com/)
-  - I _may_ make a transition to this text editor
-
 ### 🔨 [ImageOptim](https://imageoptim.com/)
 
 ### 🌐 [Chrome 🏠](https://www.google.com/chrome/browser/desktop/index.html)/[FF 🦊](https://www.mozilla.org/en-US/firefox/new/) - Web browsers
+
   - Log in to Chrome profile
   - Chrome Extensions (chrome://extensions/)
     - Accessibility Developer Tools
@@ -297,12 +323,14 @@ A checklist and list of most of the things I need when getting a new machine or 
     - WhatFont
 
 ### ↔️ [Spectacle](https://www.spectacleapp.com/) - Window management
+
   - General
     - Launch on login
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
 ### 🎨 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
+
   - After Effects
   - InDesign
   - Illustrator
@@ -311,6 +339,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Install [GuideGuide](https://guideguide.me/)
 
 ### ✏️ [Sketch App](https://www.sketchapp.com/)
+
   - Plugins
     - [Runner](http://sketchrunner.com/help.html)
     - [Craft](https://www.invisionapp.com/craft)
@@ -326,6 +355,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🌋 [LittleIpsum](http://dustinsenos.com/littleIpsum)
 
 ### 📦 [Dropbox](https://www.dropbox.com/)
+
   - Selectively Sync:
     - Stock+
     - Whatever work-related folder
@@ -342,6 +372,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### ⚙️ [Xcode](https://developer.apple.com/xcode/)
 
 ## 🚢 Dock
+
   - Remove all but the following:
     - Finder
     - System Preferences
@@ -349,6 +380,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Trash
 
 ## 🚀 Launchpad
+
   - This will be cluttered, but uninstall anything not relevant.
   - Put all pre-installed apps in folders
   - I don't really use this anyway
