@@ -407,6 +407,7 @@ killAll Finder && killAll Dock
 ```
 
 ## 🕸 Websites
+
 - Google Drive: In settings, disable sync offline mode.
 - [Michigan Branding Resources](http://cmbrand.engin.umich.edu/)
 - [U-M Web Hosting](http://www.umich.edu/~umweb/how-to/homepage.html)
@@ -414,6 +415,7 @@ killAll Finder && killAll Dock
 - I believe all bookmarks should come over once signed in to Google account so I'm not sure why I am listing these...
 
 ## 🖥 Hardware (Ideal rig (as of 2018))
+
 - MacBook Pro (15-inch, 2017)
 - 2.9 GHz Intel Core i7 Processor
 - 16 GB 2133 MHz LPDDR3
@@ -421,6 +423,7 @@ killAll Finder && killAll Dock
 - Intel HD Graphics 630 1536 MB
 
 ## 🛃 Rules
+
 - Don't install anything else in an effort to increase performance.
   - GoToMeeting
   - Kindle
@@ -428,4 +431,5 @@ killAll Finder && killAll Dock
 - Keep all working source files in Dropbox
 
 # Tips and tricks
+
 - https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.bw4vdg7q4
