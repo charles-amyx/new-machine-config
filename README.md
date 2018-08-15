@@ -428,7 +428,7 @@ killAll Finder && killAll Dock
   - GoToMeeting
   - Kindle
   - Tableau
-- Keep all working source files in Dropbox
+- Keep all working source files in Dropbox!
 
 # Tips and tricks
 
