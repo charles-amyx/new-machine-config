@@ -289,10 +289,10 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### ⬛ shell
 
-  - Terminal
+  - [iTerm2](https://iterm2.com/index.html)
     - General
-      - On startup, open: [x] New window with profile: Homebrew
-    - Profiles: Homebrew
+      - All normal
+    - Install [Oh my zsh](https://ohmyz.sh/)
 
 ### 📝 [Visual Studio Code](https://code.visualstudio.com/) - Text editor
 
