@@ -244,10 +244,8 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 💬 Accessibility: Default
 
-### ☕ Flash Player/Java: Default
+### ☕ Java: Default
 
-  - Flash: https://get.adobe.com/flashplayer/?fpchrome
-    - Notify me to install updates
   - Java: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 
