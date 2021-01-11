@@ -370,6 +370,8 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### ⚙️ [Xcode](https://developer.apple.com/xcode/)
 
+### 📺 [Zoom umich](umich.zoom.us/)
+
 ## 🚢 Dock
 
   - Remove all but the following:
