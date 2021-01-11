@@ -72,8 +72,7 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Allow apps downloaded from: Mac App Store and identified developers
   - Privacy
     - Allow the apps below to control your computer: (when downloaded)
-      - Window Tidy
-      - *Make sure to untick the Dropbox entry in Accessibility – they don't need that*
+      - *Make sure to untick the Dropbox entry in Accessibility – they don't need that ever*
 
 ### 🔍 Spotlight
 
