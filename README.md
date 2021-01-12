@@ -358,6 +358,10 @@ A checklist and list of most of the things I need when getting a new machine or 
     - Whatever work-related folder
     - Screenshots
 
+### 🔑 [1Password](https://my.1password.com)
+
+  - Install app and browser extensions, if applicable
+
 ### 🦑 [Node](https://www.npmjs.com/get-npm)
 
 ### 🐳 [Docker](https://docs.docker.com/install/)
