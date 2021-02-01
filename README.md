@@ -349,7 +349,11 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🐉 [FileZilla](https://filezilla-project.org/)
 
-### 🌋 [LittleIpsum](http://dustinsenos.com/littleIpsum)
+### 🌋 LittleIpsum
+
+  - it's in the app store now
+
+### ?? [Lando](https://docs.lando.dev/)
 
 ### 📦 [Dropbox](https://www.dropbox.com/)
 
