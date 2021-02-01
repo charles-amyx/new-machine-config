@@ -368,6 +368,10 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🦑 [Node](https://www.npmjs.com/get-npm)
 
+### 🍺 [Brew](https://brew.sh/)
+
+### 🧶 [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+
 ### 🐳 [Docker](https://docs.docker.com/install/)
 
 ### 🍫 [Vagrant](https://www.vagrantup.com/)
