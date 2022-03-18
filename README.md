@@ -403,13 +403,19 @@ killAll Finder && killAll Dock
 - [Front End Checklist](https://frontendchecklist.io/)
 - I believe all bookmarks should come over once signed in to Google account so I'm not sure why I am listing these...
 
-## 🖥 Hardware (What I've been working on as of 2020)
+## 🖥 Hardware
 
-- MacBook Pro (16-inch, 2017)
-- 2.3GHz 8-core 9th-generation Intel Core i9
-- 16GB of 2666MHz DDR4
-- 1TB of SSD Storage
-- AMD Radeon Pro 5500M with 4GB of GDDR6 memory
+- MacBook Pro (Upgrading personal to M1)
+  - M1 chipset, how many cores?
+  - 16GB at the very least
+  - 1TB of SSD Storage
+  - Standard graphics card
+- Current personal machine
+  - MacBook Pro (Retina, 15-inch, Mid 2015)
+  - 2.2 GHz Quad-Core Intel Core i7
+  - 16 GB 1600 MHz DDR3
+  - Intel Iris Pro 1536 MB
+  - Tiniest hard drive, the bane of my existence on this machine
 
 ## 🛃 Rules
 
