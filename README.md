@@ -291,38 +291,26 @@ A checklist and list of most of the things I need when getting a new machine or 
   - [iTerm2](https://iterm2.com/index.html)
     - General
       - All normal
+      - Dark theme flavor of the day
     - Install [Oh my zsh](https://ohmyz.sh/)
 
 ### 📝 [Visual Studio Code](https://code.visualstudio.com/) - Text editor
 
-  - Install HTML-CSS-JS Prettify
-  - Install Emmet Style Reflector
-  - Install SublimeLinter-contrib-stylelint
-  - More usually based on what workflow office is using
+  - I have all the settings and extensions synced through Github now
 
 ### 🔨 [ImageOptim](https://imageoptim.com/)
 
 ### 🌐 [Chrome 🏠](https://www.google.com/chrome/browser/desktop/index.html)/[FF 🦊](https://www.mozilla.org/en-US/firefox/new/) - Web browsers
 
-  - Log in to Chrome profile
-  - Chrome Extensions (chrome://extensions/)
-    - Accessibility Developer Tools
-    - Currently
-    - Dropbox for Gmail
-    - JSON Viewer
-    - Markdown Here
-    - Grammarly for Chrome
-    - Hacker News Collapsible Comments
-    - React Developer Tools
-    - uBlock Origin
-    - Wappalyzer
-    - WAVE Evaluation Tool
-    - WhatFont
+  - Chrome is just for testing
+  - Firefox is my main
+    - Log into account to sync all of the things
 
-### ↔️ [Spectacle](https://www.spectacleapp.com/) - Window management
+### ↔️ [Rectangle](https://rectangleapp.com/) - Window management
 
   - General
     - Launch on login
+  - Use Spectacle hotkeys
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
@@ -333,21 +321,15 @@ A checklist and list of most of the things I need when getting a new machine or 
   - Illustrator
     - Install [AI2HTML script](https://github.com/amyx-umich/embed-test)
   - Photoshop
-    - Install [GuideGuide](https://guideguide.me/)
+  - Lightroom
 
-### ✏️ [Sketch App](https://www.sketchapp.com/)
+### ✏️ [Figma App](https://www.figma.com/)
 
+  - Install Desktop app too
   - Plugins
-    - [Runner](http://sketchrunner.com/help.html)
-    - [Craft](https://www.invisionapp.com/craft)
-    - [Marvel prototyping](https://github.com/marvelapp/marvel-sketch)
-    - [Rename It](http://rodi01.github.io/RenameIt/)
-    - [Automate](https://ashung.github.io/Automate-Sketch/)
-    - [Copy and Paste Shadows](https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows)
     - [Zeplin](https://zeplin.io/)
-    - [Segmented Circles](https://github.com/design4use/gb-sketch-segmentcircle)
 
-### 🐉 [FileZilla](https://filezilla-project.org/)
+### 🐉 Need a new FTP app
 
 ### 🌋 LittleIpsum
 
@@ -374,15 +356,11 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🐳 [Docker](https://docs.docker.com/install/)
 
-### 🍫 [Vagrant](https://www.vagrantup.com/)
-
 ### 🖥 [VirtualBox](https://www.virtualbox.org/)
-
-### 🎼 [Spotify](https://www.spotify.com/us/)
 
 ### ⚙️ [Xcode](https://developer.apple.com/xcode/)
 
-### 📺 [Zoom umich](umich.zoom.us/)
+### 📺 [Zoom](umich.zoom.us/)
 
 ## 🚢 Dock
 
