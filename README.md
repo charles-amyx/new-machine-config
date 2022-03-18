@@ -28,7 +28,7 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🖥 Desktop & Screen Saver
 
-  - Message: Start after: 1 hour, 🔘 show clock
+  - Message: Start after: 1/2 hour, 🔘 show clock
   - Screen Saver: Flurry
 
 ### 🚢 Dock
@@ -397,11 +397,7 @@ killAll Finder && killAll Dock
 
 ## 🕸 Websites
 
-- Google Drive: In settings, disable sync offline mode.
-- [Michigan Branding Resources](http://cmbrand.engin.umich.edu/)
-- [U-M Web Hosting](http://www.umich.edu/~umweb/how-to/homepage.html)
 - [Front End Checklist](https://frontendchecklist.io/)
-- I believe all bookmarks should come over once signed in to Google account so I'm not sure why I am listing these...
 
 ## 🖥 Hardware
 
