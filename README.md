@@ -314,6 +314,10 @@ A checklist and list of most of the things I need when getting a new machine or 
 
 ### 🗣 [Slack](slack.com/downloads/osx) - Communications
 
+### 🎛 [SoundSource](https://rogueamoeba.com/soundsource/)
+
+### 📽 [Logitech Capture](https://www.logitech.com/en-us/software/capture.html)
+
 ### 🎨 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
 
   - After Effects
@@ -347,6 +351,8 @@ A checklist and list of most of the things I need when getting a new machine or 
 ### 🔑 [1Password](https://my.1password.com)
 
   - Install app and browser extensions, if applicable
+  - Unlock with Apple Watch
+  - Allow Universal Clipboard
 
 ### 🦑 [Node](https://www.npmjs.com/get-npm)
 
